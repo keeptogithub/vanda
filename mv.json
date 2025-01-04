@@ -55,12 +55,18 @@
 			"tittlemv":"VANNDA - C.O.D.A (OFFICIAL MUSIC VIDEO)",
 			"videomv":"https://keeptogithub.github.io/vanda/coda_vanda.mp4",
 			"mvpic":"https://keeptogithub.github.io/vanda/coda.jpg"
-		}
+		},
 		{
 			"id":10,
-			"tittlemv":"VANNDA - C.O.D.A (OFFICIAL MUSIC VIDEO)",
+			"tittlemv":"Catch me if you can",
 			"videomv":"https://keeptogithub.github.io/vanda/catch_me_youcan.mp4",
 			"mvpic":"https://keeptogithub.github.io/vanda/catchmeifyoucan.jpg"
+		},
+		{
+			"id":11,
+			"tittlemv":"J+O",
+			"videomv":"https://keeptogithub.github.io/vanda/jo.mp4",
+			"mvpic":"https://keeptogithub.github.io/vanda/joimg.jpg"
 		}
 		
 	]
