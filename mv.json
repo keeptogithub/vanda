@@ -85,6 +85,12 @@
 			"tittlemv":"VANNDA - LIFE IS A GAME ",
 			"videomv":"https://keeptogithub.github.io/vanda/life_is_game.mp4",
 			"mvpic":"https://keeptogithub.github.io/vanda/life_is_img.jpg"
+		},
+		{
+			"id":15,
+			"tittlemv":"VANNDA - MOVE ON ",
+			"videomv":"https://keeptogithub.github.io/vanda/move_on.mp4",
+			"mvpic":"https://keeptogithub.github.io/vanda/moveon_img.jpg"
 		}
 		
 	]
