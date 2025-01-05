@@ -91,6 +91,12 @@
 			"tittlemv":"VANNDA - MOVE ON ",
 			"videomv":"https://keeptogithub.github.io/vanda/move_on.mp4",
 			"mvpic":"https://keeptogithub.github.io/vanda/moveon_img.jpg"
+		},
+		{
+			"id":16,
+			"tittlemv":"VANNDA - NIGHT THINKER",
+			"videomv":"https://keeptogithub.github.io/vanda/nigth_thinker.mp4",
+			"mvpic":"https://keeptogithub.github.io/vanda/nigth_thinker_img.jpg"
 		}
 		
 	]
