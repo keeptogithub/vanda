@@ -22,7 +22,7 @@
 		},
 		{
 			"id":4,
-			"tittlemv":"VANNDA - សង្រ្កាន្តស្គាល់ស្នេហ៍ (SANGKRAN MAGIC) ",
+			"tittlemv":"VANNDA - សង្រ្កាន្តស្គាល់ស្នេហ៍(SANGKRAN MAGIC) ",
 			"videomv":"https://keeptogithub.github.io/vanda/sangkrantwo.mp4",
 			"mvpic":"https://keeptogithub.github.io/vanda/sangkran.jpg"
 		},
@@ -40,7 +40,7 @@
 		},
 		{
 			"id":7,
-			"tittlemv":"VANNDA - HANUMAN NIGHTS (OFFICIAL MUSIC VIDEO)",
+			"tittlemv":"VANNDA - HANUMAN NIGHTS",
 			"videomv":"https://keeptogithub.github.io/vanda/hanuman_nigth.mp4",
 			"mvpic":"https://keeptogithub.github.io/vanda/hanuman.jpg"
 		},
@@ -97,6 +97,12 @@
 			"tittlemv":"VANNDA - NIGHT THINKER",
 			"videomv":"https://keeptogithub.github.io/vanda/nigth_thinker.mp4",
 			"mvpic":"https://keeptogithub.github.io/vanda/nigth_thinker_img.jpg"
+		},
+		{
+			"id":17,
+			"tittlemv":"VANNDA - PARENTHESIS",
+			"videomv":"https://keeptogithub.github.io/vanda/parenthesis_vid.mp4",
+			"mvpic":"https://keeptogithub.github.io/vanda/parenthesis_img.jpg"
 		}
 		
 	]
