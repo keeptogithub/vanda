@@ -55,6 +55,12 @@
 			"pertittle":"បទ ព្រាននារី (Prean Neary) - វណ្ណដា (Vannda) នៅ Smart Mega Concert ខេត្តកំពង់",
 			"perimg":"https://keeptogithub.github.io/vanda/prean_neary_per_vid.mp4",
                         "pervid":"https://keeptogithub.github.io/vanda/prean_neary_per_img.jpg" 
+		},
+		{
+                        "id":10,
+			"pertittle":"VANNDA - YOU'RE ALREADY DEAD _ LIVE AT ASEAN MUSIC SHOWCASE 2021",
+			"perimg":"https://keeptogithub.github.io/vanda/you_ara_dead_per_vid.mp4",
+                        "pervid":"https://keeptogithub.github.io/vanda/you_ara_dead_per_img.jpg" 
 		}
 	]
 }
