@@ -31,6 +31,12 @@
 			"pertittle":"VANNDA - នារីជឿនលឿន (QUEEN BEE) _ LIVE AT ASEAN MUSIC SHOWCASE 2021_HD",
 			"perimg":"https://keeptogithub.github.io/vanda/queen_bee_per_img.jpg",
                         "pervid":"https://keeptogithub.github.io/vanda/queen_bee_per_vid.mp4" 
+		},
+		{
+                        "id":6,
+			"pertittle":"VANNDA - ជំពូកទី១ (Chapter I) _ Live Performance_HD",
+			"perimg":"https://keeptogithub.github.io/vanda/chapter_one_per_img.jpg",
+                        "pervid":"https://keeptogithub.github.io/vanda/chapter_one_per_vid.mp4" 
 		}
 	]
 }
