@@ -4,9 +4,15 @@
 	"data":[
 		{
 			"id":1,
-			"tittlemp":"",
-			"imgsong":"https://keeptogithub.github.io/vanda/",
-			"mp":"https://keeptogithub.github.io/vanda/"
+			"tittlemp":"VANNDA - NEW LIFE",
+			"imgsong":"https://keeptogithub.github.io/vanda/new_liffe_img.jpg",
+			"mp":"https://keeptogithub.github.io/vanda/VANNDA - NEW LIFE (OFFICIAL VISUALIZER).mp3"
+		},
+		{
+			"id":2,
+			"tittlemp":"VANNDA - ស្រណោះ (SORROW)",
+			"imgsong":"https://keeptogithub.github.io/vanda/sorrow_mp_img.jpg",
+			"mp":"https://keeptogithub.github.io/vanda/VANNDA_sorron_mp.mp3"
 		}
 	]
 }
