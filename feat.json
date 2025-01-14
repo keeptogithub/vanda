@@ -4,15 +4,15 @@
 	"data":[
 		{
 			"id":1,
-			"tittleft":"",
-			"imgft":"",
-			"vidft":""
+			"tittleft":"F.HERO x VannDa Ft. 1MILL & SPRITE - RUN THE TOWN [Official MV]",
+			"imgft":"https://keeptogithub.github.io/vanda/runthetown_img.jpg",
+			"vidft":"https://keeptogithub.github.io/vanda/run_the_town_ft.mp4"
 		},
 		{
 			"id":2,
 			"tittleft":"",
-			"imgft":"",
-			"vidft":""
+			"imgft":"https://keeptogithub.github.io/vanda/",
+			"vidft":"https://keeptogithub.github.io/vanda/"
 		}
 	]
 }
